@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=MemWatch
+Exec=/usr/local/bin/memwatch-gui
+Icon=utilities-system-monitor
+Type=Application
+Categories=Utility;System;
+Terminal=false
