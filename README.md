@@ -14,6 +14,7 @@
 
 ## Screenshot
 
+[!Alt text](assets/MemWatchGUI.png?raw=true "Screenshot")
 
 ## Dependencies
 
