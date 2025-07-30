@@ -27,6 +27,5 @@
 Clone and build the project:
 
 ```bash
-git clone https://github.com/yourusername/memwatch-gui.git
-cd memwatch-gui
+git clone https://github.com/Geoffsc/MemWatch.git
 make
